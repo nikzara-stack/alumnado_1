@@ -1,0 +1,1873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260512193434GV6OIM</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260512193434VDXIK3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Estudio de un castro asturiano. Alumnado</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Nikzara Castiñeira Martínez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778607211186</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp2wt7d5-ssqifbosz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿QUÉ VAMOS A HACER?</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¿QUÉ VAMOS A HACER?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d5-ssqifbosz</odePageId>
+      <odeBlockId>20260512171457GQOFQY</odeBlockId>
+      <blockName>Estudio para rehabilitación de un castro asturiano</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d5-ssqifbosz</odePageId>
+          <odeBlockId>20260512171457GQOFQY</odeBlockId>
+          <odeIdeviceId>202605021912130414F8</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start --><div class="exe-image-gallery-template"><!-- Idevice content start -->
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="202605021912130414F8" title="Imagen creada con IA Copilot" href="{{context_path}}/content/resources/202605021912130414F8/Designer_1.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/202605021912130414F8/Designer_1_thumb.png" height="128" width="128" title="Imagen creada con IA Copilot" alt="Imagen creada con IA Copilot" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div><!-- Idevice content end --></div><!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605021912130414F8","img_0":{"img":"{{context_path}}/content/resources/202605021912130414F8/Designer_1.png","thumbnail":"{{context_path}}/content/resources/202605021912130414F8/Designer_1_thumb.png","title":"Imagen creada con IA Copilot","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d5-ssqifbosz</odePageId>
+      <odeBlockId>20260512171457XMTBBV</odeBlockId>
+      <blockName>Construyendo la historia: Información</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d5-ssqifbosz</odePageId>
+          <odeBlockId>20260512171457XMTBBV</odeBlockId>
+          <odeIdeviceId>20260502191355951T7E</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En esta unidad trabajaremos como si fuéramos un estudio de arquitectura encargado de reconstruir un castro asturiano.&nbsp;</p>
+<p>Para ello, comenzaremos con una fase de investigación y una visita al <a href="https://www.gijon.es/es/directorio/parque-arqueologico-natural-de-la-campa-torres?utm_source=copy_link&utm_medium=social_share&utm_campaign=parque-arqueologico-natural-de-la-campa-torres" target="_blank" id="link_0" rel="noopener">Parque Arqueológico de la Campa Torres</a>, en Gijón.</p>
+<p>A partir de los apuntes y observaciones recogidas, realizaremos dibujos en perspectiva y crearemos una imagen interactiva con los elementos principales de una de las construcciones.</p>
+<p>Posteriormente, elaboraremos un croquis a mano alzado y, más tarde, desarrollaremos los planos de la construcción seleccionada mediante la aplicación CAD.</p>
+<p>Por último, realizaremos un vídeo donde se muestre el proceso completo del trabajo.&nbsp;</p>
+<p>En el apartado ACTIVIDADES podréis consultar de forma detallada cada una de las tareas propuestas.</p>
+<p>Además, tenéis a vuestra disposición material de consulta y un diccionario con las definiciones relevantes.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260502191355951T7E","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta unidad trabajaremos como si fuéramos un estudio de arquitectura encargado de reconstruir un castro asturiano. </p>\n<p>Para ello, comenzaremos con una fase de investigación y una visita al <a href=\"https://www.gijon.es/es/directorio/parque-arqueologico-natural-de-la-campa-torres?utm_source=copy_link&utm_medium=social_share&utm_campaign=parque-arqueologico-natural-de-la-campa-torres\" target=\"_blank\" id=\"link_0\" rel=\"noopener\">Parque Arqueológico de la Campa Torres</a>, en Gijón.</p>\n<p>A partir de los apuntes y observaciones recogidas, realizaremos dibujos en perspectiva y crearemos una imagen interactiva con los elementos principales de una de las construcciones.</p>\n<p>Posteriormente, elaboraremos un croquis a mano alzado y, más tarde, desarrollaremos los planos de la construcción seleccionada mediante la aplicación CAD.</p>\n<p>Por último, realizaremos un vídeo donde se muestre el proceso completo del trabajo. </p>\n<p>En el apartado ACTIVIDADES podréis consultar de forma detallada cada una de las tareas propuestas.</p>\n<p>Además, tenéis a vuestra disposición material de consulta y un diccionario con las definiciones relevantes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7d8-qjulq6e5o</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 1</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d8-qjulq6e5o</odePageId>
+      <odeBlockId>20260512171457SMQCMF</odeBlockId>
+      <blockName>En esta primera sesión vamos a poner a prueba tu conocimiento</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d8-qjulq6e5o</odePageId>
+          <odeBlockId>20260512171457SMQCMF</odeBlockId>
+          <odeIdeviceId>20260503183514280CEO</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Responde a las preguntas que encontrarás en el siguiente cuestionario: Accede pulsando en el enlace.</p>
+<p></p>
+<p><a href="https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=O26jiJ_XK0qNtkwG0Jc4Ifmxm8-B0URPpZQXOGtb1YtUQUNZNUlLQUpBUzhTQzU0S1RNVTFBSThGNS4u" target="_blank" rel="noopener" id="link_2">CUESTIONARIO</a></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503183514280CEO","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Responde a las preguntas que encontrarás en el siguiente cuestionario: Accede pulsando en el enlace.</p>\n<p></p>\n<p><a href=\"https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=O26jiJ_XK0qNtkwG0Jc4Ifmxm8-B0URPpZQXOGtb1YtUQUNZNUlLQUpBUzhTQzU0S1RNVTFBSThGNS4u\" target=\"_blank\" rel=\"noopener\" id=\"link_2\">CUESTIONARIO</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7d8-1wmivs30p</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 2</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d8-1wmivs30p</odePageId>
+      <odeBlockId>20260512171457NENILO</odeBlockId>
+      <blockName>Visita al Parque Arqueológico de Campa Torres</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d8-1wmivs30p</odePageId>
+          <odeBlockId>20260512171457NENILO</odeBlockId>
+          <odeIdeviceId>20260503183819687HCL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Vamos a realizar una excursión al <strong>Parque Arqueológico de la Campa Torres</strong>. En la visita, debes hacer bocetos de las zonas que te parezcan más interesantes y útiles para el proyecto, al menos uno de la cabaña que está reconstruida. También debes apuntar toda la información que consideres valiosa para tu trabajo.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503183819687HCL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vamos a realizar una excursión al <strong>Parque Arqueológico de la Campa Torres</strong>. En la visita, debes hacer bocetos de las zonas que te parezcan más interesantes y útiles para el proyecto, al menos uno de la cabaña que está reconstruida. También debes apuntar toda la información que consideres valiosa para tu trabajo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d8-1wmivs30p</odePageId>
+      <odeBlockId>20260512171457CVRFWO</odeBlockId>
+      <blockName>Página web</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d8-1wmivs30p</odePageId>
+          <odeBlockId>20260512171457CVRFWO</odeBlockId>
+          <odeIdeviceId>20260503184705196VO0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Si no has podido acudir a la excursión.</p>
+<p>Visita la página web del lugar.</p>
+<p><a href="https://www.gijon.es/es/directorio/parque-arqueologico-natural-de-la-campa-torres" target="_blank" rel="noopener" id="link_3" title="">La Campa Torres</a></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503184705196VO0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Si no has podido acudir a la excursión.</p>\n<p>Visita la página web del lugar.</p>\n<p><a href=\"https://www.gijon.es/es/directorio/parque-arqueologico-natural-de-la-campa-torres\" target=\"_blank\" rel=\"noopener\" id=\"link_3\" title=\"\">La Campa Torres</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7d9-6b3fiuizn</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 3: Actividad 1: INFOGRAFÍA</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Actividad 1: INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3: Actividad 1: INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3: Actividad 1: INFOGRAFÍA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-6b3fiuizn</odePageId>
+      <odeBlockId>20260512171457PTQCJO</odeBlockId>
+      <blockName>Tarea infografía</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-6b3fiuizn</odePageId>
+          <odeBlockId>20260512171457PTQCJO</odeBlockId>
+          <odeIdeviceId>20260503185417842YJQ</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Una vez realizados los dibujos y recopilado la información necesaria, realiza una infografía interactiva de una cabaña o una arquitectura del castro. Esta deberá incluir texto interactivo que identifique las distintas partes que lo componen, acompañado de una breve definición explicativa de cada elemento.</p>
+<p>Para mejorar vuestros dibujos podéis utilizar herramienta IA, pero siempre partiendo de vuestros apuntes. Para la creación de la infografía y los elementos interactivos utilizaréis la aplicación de <a href="https://genially.com/es/?v=B" target="_blank" rel="noopener" id="link_5">genially</a>&nbsp;</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/ffzVQYsVGUY?si=qd_lnobg86-iQ1Ai" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503185417842YJQ","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez realizados los dibujos y recopilado la información necesaria, realiza una infografía interactiva de una cabaña o una arquitectura del castro. Esta deberá incluir texto interactivo que identifique las distintas partes que lo componen, acompañado de una breve definición explicativa de cada elemento.</p>\n<p>Para mejorar vuestros dibujos podéis utilizar herramienta IA, pero siempre partiendo de vuestros apuntes. Para la creación de la infografía y los elementos interactivos utilizaréis la aplicación de <a href=\"https://genially.com/es/?v=B\" target=\"_blank\" rel=\"noopener\" id=\"link_5\">genially</a> </p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/ffzVQYsVGUY?si=qd_lnobg86-iQ1Ai\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-6b3fiuizn</odePageId>
+      <odeBlockId>20260512171457PPXGBH</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-6b3fiuizn</odePageId>
+          <odeBlockId>20260512171457PPXGBH</odeBlockId>
+          <odeIdeviceId>20260503212742663I46</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A4%A2%A7%A2%A1%A0%A3%A0%A5%A6%A0%A4%A4%A1%DB%A6%A4%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DB%DC%D4%DD%D5%C0%D3%D4_%D3%B2%DB%DC%C6%D7%C0%D3%D1%C6%DB%C4%D3%B2%D1%D3%C1%C6%C0%DD%B2%D3%C1%C6%C7%C0%DB%D3%DC%DD%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%F4%FD%F5%E0%F3%F4%7F%F3%B2%FB%FC%E6%F7%E0%F3%F1%E6%FB%E4%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C1%F7%B2%E2%F3%E0%E6%F7%B2%F6%F7%B2%E7%FC%B2%F6%FB%F0%E7%F8%FD%B2%E2%E0%FD%E2%FB%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C1%F7%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%FC%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%FE%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%F1%FD%FC%E1%E6%E0%E7%F1%E6%FB%E4%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FE%B2%F6%FB%F0%E7%F8%FD%B2%F7%E1%B2%E2%E0%FD%E2%FD%E0%F1%FB%FD%FC%F3%F6%FD%B2%EB%B2%F7%E1%E6%E0%E7%F1%E6%E7%E0%F3%FE%FF%F7%FC%E6%F7%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%F7%E1%E6s%FC%B2%F1%FE%F3%E0%F3%FF%F7%FC%E6%F7%B2%E1%F7c%F3%FE%F3%F6%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F3%E0%E6%F7%E1%B2%FB%FC%F1%FE%E7%EB%F7%FC%B2%F6%F7%F4%FB%FC%FB%F1%FBa%FC%B2%F0%E0%F7%E4%F7%B2%EB%B2%E6%7B%F1%FC%FB%F1%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%D7%FE%B2%E6%F7%EA%E6%FD%B2%F7%E1%B2%F1%FE%F3%E0%FD%BE%B2%E2%E0%F7%F1%FB%E1%FD%B2%EB%B2%E1%FB%FC%B2%E0%F7%F6%E7%FC%F6%F3%FC%F1%FB%F3%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%F5%E0%F3%F4%7F%F3%B2%FA%F3%B2%E1%FB%F6%FD%B2%F1%E0%F7%F3%F6%F3%B2%F7%FC%B2%F5%F7%FC%FB%F3%FE%FE%EB%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DB%FC%F1%FE%E7%EB%F7%B2%F7%FE%F7%FF%F7%FC%E6%FD%E1%B2%FB%FC%E6%F7%E0%F3%F1%E6%FB%E4%FD%E1%B2%F4%E7%FC%F1%FB%FD%FC%F3%FE%F7%E1%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%F3%B2%FC%F3%E4%F7%F5%F3%F1%FBa%FC%B2%F7%E1%B2%F1%FE%F3%E0%F3%B2%F7%B2%FB%FC%E6%E7%FB%E6%FB%E4%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%DE%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F7%E1%E6s%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 4,5,6 y 7. Actividad 2.1:Creación de planos.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4,5,6 y 7. Actividad 2.1:Creación de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4,5,6 y 7. Actividad 2.1:Creación de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4,5,6 y 7. Actividad 2.1:Creación de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+      <odeBlockId>20260512171457VATLCJ</odeBlockId>
+      <blockName>Vistas y acotación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+          <odeBlockId>20260512171457VATLCJ</odeBlockId>
+          <odeIdeviceId>20260503182205317JZD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Visualiza el contenido que encontrarás en el siguiente enlace:</p>
+<p><br></p>
+<p><a href="VISTAS Y ACOTACIÓN La norma UNE 1032, coincidente con la ISO 128, se encarga de la parte de la normalización de las representaciones diédricas normalizadas, también conocidas como vistas. Ir a este Sway" id="link_1">VISTAS Y ACOTACIÓN La norma UNE 1032, coincidente con la ISO 128, se encarga de la parte de la normalización de las representaciones diédricas normalizadas, también conocidas como vistas. Ir a este Sway</a></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503182205317JZD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Visualiza el contenido que encontrarás en el siguiente enlace:</p>\n<p><br /></p>\n<p><a href=\"VISTAS Y ACOTACIÓN La norma UNE 1032, coincidente con la ISO 128, se encarga de la parte de la normalización de las representaciones diédricas normalizadas, también conocidas como vistas. Ir a este Sway\" id=\"link_1\">VISTAS Y ACOTACIÓN La norma UNE 1032, coincidente con la ISO 128, se encarga de la parte de la normalización de las representaciones diédricas normalizadas, también conocidas como vistas. Ir a este Sway</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+      <odeBlockId>20260512171457KFAPCA</odeBlockId>
+      <blockName>Cómo acotar</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+          <odeBlockId>20260512171457KFAPCA</odeBlockId>
+          <odeIdeviceId>20260503190208378DI6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><iframe width="560" height="314" src="https://www.youtube.com/embed/NwTh_tiB3YQ?si=SEfL4LLVTN_Bq0rT" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503190208378DI6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/NwTh_tiB3YQ?si=SEfL4LLVTN_Bq0rT\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+      <odeBlockId>20260512171457SRYSZJ</odeBlockId>
+      <blockName>Escalas</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+          <odeBlockId>20260512171457SRYSZJ</odeBlockId>
+          <odeIdeviceId>20260503191851781O6C</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En el siguiente vídeo del canal de Mediatrizeo puedes ver como se utilizan las escalas.</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/6jvrEkchx6U?si=Ph4m60_1HgknAK_C" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503191851781O6C","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente vídeo del canal de Mediatrizeo puedes ver como se utilizan las escalas.</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/6jvrEkchx6U?si=Ph4m60_1HgknAK_C\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+      <odeBlockId>20260512171457HFIWFW</odeBlockId>
+      <blockName>Actividad creación de planos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7d9-he1z573r0</odePageId>
+          <odeBlockId>20260512171457HFIWFW</odeBlockId>
+          <odeIdeviceId>20260503192150020J3J</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En un formato DIN A3 Debes realizar las vistas de la construcción arquitectónica seleccionada: Planta y alzado (perfil si fuera necesario). Aplica la escala correspondiente para el formato y acótalo según la norma UNE. Recuerda que tiene que llevar el cuadro de rotulación, como se muestra en la imagen.</p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/20260503192150020J3J/mceclip3.png"></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503192150020J3J","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En un formato DIN A3 Debes realizar las vistas de la construcción arquitectónica seleccionada: Planta y alzado (perfil si fuera necesario). Aplica la escala correspondiente para el formato y acótalo según la norma UNE. Recuerda que tiene que llevar el cuadro de rotulación, como se muestra en la imagen.</p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/20260503192150020J3J/mceclip3.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7da-g05fcbksd</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 8, 9 y 10. Actividad 2.2: Digitalización de planos.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8, 9 y 10. Actividad 2.2: Digitalización de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 8, 9 y 10. Actividad 2.2: Digitalización de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 8, 9 y 10. Actividad 2.2: Digitalización de planos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7da-g05fcbksd</odePageId>
+      <odeBlockId>20260512171457KYTUNN</odeBlockId>
+      <blockName>Digitalización Planos arquitectónicos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7da-g05fcbksd</odePageId>
+          <odeBlockId>20260512171457KYTUNN</odeBlockId>
+          <odeIdeviceId>20260503174519BXINRL</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Con una aplicación CAD realiza la digitalización de los planos realizados en la anterior actividad. Recuerda que deben estar preparado para imprimir en DIN A3 y con su cuadro de rotulación correspondiente.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503174519BXINRL","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con una aplicación CAD realiza la digitalización de los planos realizados en la anterior actividad. Recuerda que deben estar preparado para imprimir en DIN A3 y con su cuadro de rotulación correspondiente.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7da-g05fcbksd</odePageId>
+      <odeBlockId>20260512171457WHNSCA</odeBlockId>
+      <blockName>Rúbrica unidad</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7da-g05fcbksd</odePageId>
+          <odeBlockId>20260512171457WHNSCA</odeBlockId>
+          <odeIdeviceId>20260503221434453459</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><img src="{{context_path}}/content/resources/20260503221434453459/mceclip4.png"></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503221434453459","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/20260503221434453459/mceclip4.png\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Sesión 11 y 12. Actividad video</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 11 y 12. Actividad video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 11 y 12. Actividad video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 11 y 12. Actividad video</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+      <odeBlockId>20260512171457RUYWQA</odeBlockId>
+      <blockName>Actividad 3. Presentación del Proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+          <odeBlockId>20260512171457RUYWQA</odeBlockId>
+          <odeIdeviceId>20260503194928322BTK</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>En grupo, debéis realizar un vídeo que recoja el proceso completo de trabajo. En él deberá mostrarse la ficha interactiva, los planos realizados &nbsp;y la simulación final del castro rehabilitado.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503194928322BTK","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En grupo, debéis realizar un vídeo que recoja el proceso completo de trabajo. En él deberá mostrarse la ficha interactiva, los planos realizados  y la simulación final del castro rehabilitado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+      <odeBlockId>20260512171457JZIUKV</odeBlockId>
+      <blockName>Tutorial Clipchamp</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+          <odeBlockId>20260512171457JZIUKV</odeBlockId>
+          <odeIdeviceId>20260503220021988PGD</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>Puedes visualizar el video para aprender a editar un video con la aplicación Clipchamp</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/6mF29DsBbeA?si=2ZdF9PEevmt_QYCe" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503220021988PGD","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Puedes visualizar el video para aprender a editar un video con la aplicación Clipchamp</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/6mF29DsBbeA?si=2ZdF9PEevmt_QYCe\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+      <odeBlockId>20260512171457PLBXIA</odeBlockId>
+      <blockName>Lista de cotejo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7da-v5h74ltpo</odePageId>
+          <odeBlockId>20260512171457PLBXIA</odeBlockId>
+          <odeIdeviceId>20260503222000952MVB</odeIdeviceId>
+          <odeIdeviceTypeName>checklist</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="listacotejo-IDevice"><div class="listacotejo-instructions CTJ-instructions"><p>Completa la lista de cotejo marcando las casillas al realizar las actividades correspondientes.</p></div><div class="listacotejo-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%E6%F7%F8%FD%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A4%A2%A7%A2%A1%A0%A0%A0%A2%A2%A2%AB%A7%A0%DF%C4%D0%B0%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%DE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%B2%E4%FB%F6%F7%FD%B2%F5%E0%E7%E2%F3%FE%B0%BE%B0%E1%E7%F0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%FE%F7%E4%F7%FE%E1%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%B0%A1%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A2%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%C4%FB%F6%F7%FD%B2%F5%E0%E7%E2%F3%FE%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E2%B2%F1%FE%F3%E1%E1%AF%CE%B0%DF%E1%FD%DC%FD%E0%FF%F3%FE%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FB%FF%F3%F5%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E1%FB%E8%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E0%F7%E2%F7%F3%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F3%E6%E6%F3%F1%FA%FF%F7%FC%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FD%E0%FB%F5%FB%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FE%FB%E2%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A3%BC%A7%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%DD%E2%F7%FC%B2%C1%F3%FC%E1%B4%E3%E7%FD%E6%A9%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%CE%B0%AC%D7%FE%B2%E6%E0%F3%F0%F3%F8%FD%B2%E1%F7%B2%E0%F7%F3%FE%FB%E8%F3%B2%F6%F7%B2%F4%FD%E0%FF%F3%B4%FC%F0%E1%E2%A9%AE%F0%AC%F1%FD%FE%F3%F0%FD%E0%F3%E6%FB%E4%F3%AE%BD%F0%AC%AE%FD%A8%E2%AC%AE%BD%FD%A8%E2%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E2%B2%F1%FE%F3%E1%E1%AF%CE%B0%DF%E1%FD%DC%FD%E0%FF%F3%FE%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FB%FF%F3%F5%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E1%FB%E8%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E0%F7%E2%F7%F3%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F3%E6%E6%F3%F1%FA%FF%F7%FC%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FD%E0%FB%F5%FB%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FE%FB%E2%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A3%BC%A7%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%DD%E2%F7%FC%B2%C1%F3%FC%E1%B4%E3%E7%FD%E6%A9%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%CE%B0%AC%C6%FD%F6%FD%E1%B2%FE%FD%E1%CE%FC%FF%FB%F7%FF%F0%E0%FD%E1%B2%E2%F3%E0%E6%FB%F1%FB%E2%F3%FC%B2%F7%FC%B2%F7%FE%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%B2%F4%FB%FC%F3%FE%AE%FD%A8%E2%AC%AE%BD%FD%A8%E2%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%BC%A2%E2%E6%A9%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%A3%A3%A7%B7%A9%CE%FC%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%D3%E2%E6%FD%E1%B4%E3%E7%FD%E6%A9%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%FF%E1%FD%BF%F3%E1%F1%FB%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%CE%FC%D3%E2%E6%FD%E1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%FA%F3%FC%E1%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%CE%FC%FF%E1%FD%BF%F0%FB%F6%FB%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%F0%FB%F6%FB%A9%CE%FC%FF%E1%FD%BF%F3%FC%E1%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%C1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%DC%BF%C7%C1%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D3%C0%BF%C1%D3%CE%B0%AC%D7%FE%CE%FC%E4%7F%F6%F7%FD%B2%E2%E0%F7%E1%F7%FC%E6%F3%B2%E7%FC%B2%AE%F0%AC%FD%E0%F6%F7%FC%B2%FEa%F5%FB%F1%FD%B2%EB%B2%F1%FD%FF%E2%E0%F7%FC%E1%FB%F0%FE%F7%AE%BD%F0%AC%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E2%B2%F1%FE%F3%E1%E1%AF%CE%B0%DF%E1%FD%DC%FD%E0%FF%F3%FE%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FB%FF%F3%F5%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E1%FB%E8%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E0%F7%E2%F7%F3%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F3%E6%E6%F3%F1%FA%FF%F7%FC%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FD%E0%FB%F5%FB%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FE%FB%E2%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A3%BC%A7%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%DD%E2%F7%FC%B2%C1%F3%FC%E1%B4%E3%E7%FD%E6%A9%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%CE%B0%AC%C1%F7%B2%FF%E7%F7%E1%E6%E0%F3%FC%CE%FC%F1%FE%F3%E0%F3%FF%F7%FC%E6%F7%B2%FE%F3%E1%B4%FC%F0%E1%E2%A9%AE%F0%AC%F6%FB%E1%E6%FB%FC%E6%F3%E1%B2%F4%F3%E1%F7%E1%B2%F6%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%AE%BD%F0%AC%AE%FD%A8%E2%AC%AE%BD%FD%A8%E2%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%F6%FB%E4%AC%AE%E2%B2%F1%FE%F3%E1%E1%AF%CE%B0%DF%E1%FD%DC%FD%E0%FF%F3%FE%CE%B0%B2%E1%E6%EB%FE%F7%AF%CE%B0%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%B2%FC%FD%E0%FF%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FB%FF%F3%F5%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E2%FD%E1%FB%E6%FB%FD%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E1%FB%E8%F7%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%E0%F7%E2%F7%F3%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F3%E6%E6%F3%F1%FA%FF%F7%FC%E6%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%FD%E0%FB%F5%FB%FC%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%B2%F0%F3%F1%F9%F5%E0%FD%E7%FC%F6%BF%F1%FE%FB%E2%A8%B2%FB%FC%FB%E6%FB%F3%FE%A9%CE%B0%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%B2%A3%A3%BC%A7%E2%E6%A9%B2%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%B4%E3%E7%FD%E6%A9%DD%E2%F7%FC%B2%C1%F3%FC%E1%B4%E3%E7%FD%E6%A9%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%CE%B0%AC%DE%F3%B2%F4%FB%F1%FA%F3%B2%FB%FC%E6%F7%E0%F3%F1%E6%FB%E4%F3%B2%F3%E2%F3%E0%F7%F1%F7%B2%F1%FE%F3%E0%F3%FF%F7%FC%E6%F7%B2%F7%FC%B2%F7%FE%B2%E4%7F%F6%F7%FD%AE%FD%A8%E2%AC%AE%BD%FD%A8%E2%AC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%AE%BD%F6%FB%E4%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%BC%A2%E2%E6%A9%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%A3%A3%A7%B7%A9%CE%FC%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%D3%E2%E6%FD%E1%B4%E3%E7%FD%E6%A9%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%FF%E1%FD%BF%F3%E1%F1%FB%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%CE%FC%D3%E2%E6%FD%E1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%FA%F3%FC%E1%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%CE%FC%FF%E1%FD%BF%F0%FB%F6%FB%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%F0%FB%F6%FB%A9%CE%FC%FF%E1%FD%BF%F3%FC%E1%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%C1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%DC%BF%C7%C1%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D3%C0%BF%C1%D3%CE%B0%AC%C1%F7%CE%FC%F7%FC%E6%FB%F7%FC%F6%F7%B2%FE%F3%B2%E0%F7%FE%F3%F1%FBa%FC%B2%F7%FC%E6%E0%F7%B2%FE%F3%B2%F4%FB%F1%FA%F3%B2%EB%B2%F7%FE%B2%E6%E0%F3%F0%F3%F8%FD%B2%F5%E0s%F4%FB%F1%FD%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E2%B2%F1%FE%F3%E1%E1%AF%CE%B0%DF%E1%FD%DC%FD%E0%FF%F3%FE%CE%B0%AC%DE%FD%E1%B2%E2%FE%F3%FC%FD%E1%B2%E1%FD%FC%B2%FE%F7%F5%FB%F0%FE%F7%E1%B2%EB%B2%F1%FD%E0%E0%F7%F1%E6%F3%FF%F7%FC%E6%F7%B2%E2%E0%F7%E1%F7%FC%E6%F3%F6%FD%E1%AE%FD%A8%E2%AC%AE%BD%FD%A8%E2%AC%AE%BD%E2%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%BC%A2%E2%E6%A9%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%A3%A3%A7%B7%A9%CE%FC%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%D3%E2%E6%FD%E1%B4%E3%E7%FD%E6%A9%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%FF%E1%FD%BF%F3%E1%F1%FB%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%CE%FC%D3%E2%E6%FD%E1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%FA%F3%FC%E1%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%CE%FC%FF%E1%FD%BF%F0%FB%F6%FB%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%F0%FB%F6%FB%A9%CE%FC%FF%E1%FD%BF%F3%FC%E1%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%C1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%DC%BF%C7%C1%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D3%C0%BF%C1%D3%CE%B0%AC%C1%F7%CE%FC%F7%FC%E6%FB%F7%FC%F6%F7%B2%F7%FE%B2%E0%F7%E1%E7%FE%E6%F3%F6%FD%B2%F4%FB%FC%F3%FE%B2%F6%F7%FE%B2%E2%E0%FD%F1%F7%E1%FD%B2%F6%F7%B2%F6%FB%E1%F7c%FD%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%BC%A2%E2%E6%A9%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%A3%A3%A7%B7%A9%CE%FC%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%D3%E2%E6%FD%E1%B4%E3%E7%FD%E6%A9%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%FF%E1%FD%BF%F3%E1%F1%FB%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%CE%FC%D3%E2%E6%FD%E1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%FA%F3%FC%E1%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%CE%FC%FF%E1%FD%BF%F0%FB%F6%FB%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%F0%FB%F6%FB%A9%CE%FC%FF%E1%FD%BF%F3%FC%E1%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%C1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%DC%BF%C7%C1%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D3%C0%BF%C1%D3%CE%B0%AC%DE%F3%E1%CE%FC%FA%F7%E0%E0%F3%FF%FB%F7%FC%E6%F3%E1%B2%F6%FB%F5%FB%E6%F3%FE%F7%E1%B2%E1%F7%B2%E7%E1%F3%FC%B2%F6%F7%B2%FF%F3%FC%F7%E0%F3%B2%F3%F6%F7%F1%E7%F3%F6%F3%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%B0%A2%B0%BE%B0%FC%FB%E4%F7%FE%B0%A8%B0%A3%B0%BE%B0%FB%E6%F7%FF%B0%A8%B0%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%E1%FB%E8%F7%A8%A3%A0%BC%A2%E2%E6%A9%FE%FB%FC%F7%BF%FA%F7%FB%F5%FA%E6%A8%A3%A3%A7%B7%A9%CE%FC%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%D3%E2%E6%FD%E1%B4%E3%E7%FD%E6%A9%BE%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%FF%E1%FD%BF%F3%E1%F1%FB%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%CE%FC%D3%E2%E6%FD%E1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%FF%E1%FD%BF%FA%F3%FC%E1%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%FE%F3%E6%FB%FC%A9%CE%FC%FF%E1%FD%BF%F0%FB%F6%FB%BF%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B4%E3%E7%FD%E6%A9%C6%FB%FF%F7%E1%B2%DC%F7%E5%B2%C0%FD%FF%F3%FC%B4%E3%E7%FD%E6%A9%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%E6%FA%F7%FF%F7%BF%F4%FD%FC%E6%A8%FF%FB%FC%FD%E0%BF%F0%FB%F6%FB%A9%CE%FC%FF%E1%FD%BF%F3%FC%E1%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%C1%A9%FF%E1%FD%BF%F4%F3%E0%F7%F3%E1%E6%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D7%DC%BF%C7%C1%A9%FF%E1%FD%BF%F0%FB%F6%FB%BF%FE%F3%FC%F5%E7%F3%F5%F7%A8%D3%C0%BF%C1%D3%CE%B0%AC%C1%F7%CE%FC%F3%E2%E0%F7%F1%FB%F3%B2%F7%E1%F4%E7%F7%E0%E8%FD%B2%EB%B2%F1%E7%FB%F6%F3%F6%FD%B2%F7%FC%B2%F7%FE%B2%E2%E0%FD%F6%E7%F1%E6%FD%B2%F4%FB%FC%F3%FE%AE%BD%E1%E2%F3%FC%AC%B0%BE%B0%E2%FD%FB%FC%E6%E1%B0%A8%B0%A3%B0%EF%CF%BE%B0%FA%F3%E1%DE%FD%F5%FD%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%DE%FD%F5%FD%B0%A8%B0%B0%BE%B0%FA%F3%E1%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D1%FD%FF%FF%E7%FC%FB%E6%EB%B0%A8%B0%B0%BE%B0%FA%F3%E1%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D6%F7%F1%FD%E0%F3%E6%FB%E4%F7%B0%A8%B0%B0%BE%B0%E1%F3%E4%F7%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%E7%E1%F7%E0%D6%F3%E6%F3%B0%A8%E6%E0%E7%F7%BE%B0%F4%FD%FD%E6%F7%E0%B0%A8%B0%D7%E1%E6%F3%B2%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%E1%A8%BD%BD%F7%E1%BC%E5%FB%F9%FB%E2%F7%F6%FB%F3%BC%FD%E0%F5%BD%E5%FB%F9%FB%BD%DE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%FF%E2%E0%FD%F0%F3%F1%FB%B7%D1%A1%B7%D0%A1%FC%AC%FE%FB%E1%E6%F3%B2%F6%F7%B2%F1%FD%E6%F7%F8%FD%AE%BD%F3%AC%B2%E1%F7%B2%F7%FC%F1%E7%F7%FC%E6%E0%F3%B2%F0%F3%F8%FD%B2%E7%FC%F3%B2%FE%FB%F1%F7%FC%F1%FB%F3%AE%BD%F0%E0%AC%AE%F3%B2%FA%E0%F7%F4%AF%FA%E6%E6%E2%A8%BD%BD%F1%E0%F7%F3%E6%FB%E4%F7%F1%FD%FF%FF%FD%FC%E1%BC%FD%E0%F5%BD%FE%FB%F1%F7%FC%E1%F7%E1%BD%F0%EB%BF%E1%F3%BD%A6%BC%A2%AC%D1%E0%F7%F3%E6%FB%E4%F7%B2%D1%FD%FF%FF%FD%FC%E1%B2%C0%F7%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%BF%D1%FD%FF%E2%F3%E0%E6%FB%E0%B2%FB%F5%E7%F3%FE%B2%A6%BC%A2%B2%DB%FC%E6%F7%E0%FC%F3%E6%FB%FD%FC%F3%FE%B2%DE%FB%F1%F7%FC%E1%F7%AE%BD%F3%AC%B0%BE%B0%E7%E1%F7%C1%F1%FD%E0%F7%B0%A8%E6%E0%E7%F7%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%D1%FD%FF%E2%FE%FB%E6%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B0%BE%B0%FF%E1%F5%D6%FD%FC%F7%B0%A8%B0%DA%F7%F1%FA%FD%B0%BE%B0%FF%E1%F5%DB%FC%C2%E0%FD%F5%E0%F7%E1%E1%B0%A8%B0%D7%FC%B2%E2%E0%FD%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C7%FC%E0%F7%F3%FE%FB%E8%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FF%E2%FE%F7%E6%F3%E0%B0%BE%B0%FF%E1%F5%E6%F3%E1%F9%DC%E7%FF%F0%F7%E0%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E6%F3%E0%F7%F3%E1%B0%BE%B0%FF%E1%F5%DC%F3%FF%F7%B0%A8%B0%DC%FD%FF%F0%E0%F7%B0%BE%B0%FF%E1%F5%D6%F3%E6%F7%B0%A8%B0%D4%F7%F1%FA%F3%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%B0%A8%B0%D6%F7%E1%F1%F3%E0%F5%F3%E0%B0%BE%B0%FF%E1%F5%DE%FB%E1%E6%B0%A8%B0%FE%FB%E1%E6%F3%CD%F6%F7%CD%F1%FD%E6%F7%F8%FD%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%B0%A8%B0%E2%E7%FC%E6%FD%B0%BE%B0%FF%E1%F5%C0%F7%F0%FD%FD%E6%B0%A8%B0%C0%F7%FB%FC%FB%F1%FB%F3%E0%B0%BE%B0%FF%E1%F5%D6%F7%FE%F7%E6%F7%B0%A8%B0-%C1%F7%F5%E7%E0%FD%B2%E3%E7%F7%B2%F6%F7%E1%F7%F3%B2%F0%FD%E0%E0%F3%E0%B2%E6%FD%F6%FD%E1%B2%FE%FD%E1%B2%F1%F3%FF%E2%FD%E1%B2%F6%F7%FE%B2%F4%FD%E0%FF%E7%FE%F3%E0%FB%FD%AD%B0%EF%EF</div><div class="listacotejo-bns js-hidden">Navegador incompatible</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7db-jhvs6po6d</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>AMPLIACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AMPLIACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>AMPLIACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7db-jhvs6po6d</odePageId>
+      <odeBlockId>20260512171457CFMJRQ</odeBlockId>
+      <blockName>APUNTES NORMALIZACIÓN</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7db-jhvs6po6d</odePageId>
+          <odeBlockId>20260512171457CFMJRQ</odeBlockId>
+          <odeIdeviceId>20260502200519609UCR</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>NORMALIZACIÓN Y DOCUMENTACIÓN&nbsp;</strong><br><strong>GRÁFICA DE PROYECTOS&nbsp;</strong><br>Es un conjunto de disposiciones que facilitan la comunicación entre empresas,&nbsp;<br>administración y usuarios. En dibujo técnico, la normalización facilita la elaboración de los&nbsp;<br>planos y la lectura de los mismos por otras personas.&nbsp;<br><strong>NORMALIZACIÓN&nbsp;</strong><br><strong>¿QUÉ ES UNA NORMA?&nbsp;</strong><br>Es un documento técnico con las siguientes características.&nbsp;<br>• CONTIENE ESPECIFICACIONES TÉCNICAS DE APLICACIÓN VOLUNTARIA.&nbsp;<br>• SE ELABORA POR CONSENSO DE LOS INTERESADOS (FABRICANTES, ADMINISTRACIÓN,&nbsp;<br>USUARIOS, CENTROS DE INVESTIGACIÓN, ETC)&nbsp;<br>• ESTÁ BASADA EN LA EXPERIENCIA.&nbsp;<br>• ES APROBADA POR UN ORGANISMO DE NORMALIZACIÓN RECONOCIDO.&nbsp;<br>• ESTÁ A DISPOSICIÓN DEL PÚBLICO.&nbsp;<br><strong>CLASES DE NORMAS&nbsp;</strong><br>Las normas se pueden clasificar bien atendiendo al tipo de organismo que las haya&nbsp;<br>elaborado, o a su contenido. La clasificación tradicional distingue las siguientes , según el&nbsp;<br>organismo que las haya elaborado.&nbsp;<br><strong>NORMAS NACIONALES&nbsp;</strong><br>Las que han sido desarrolladas para aplicar en el ámbito nacional. En España:&nbsp;<br>• &nbsp;UNE (Una Norma Española)&nbsp;<br>• AENOR (Asociación Española de Normalización y Certificación) es el organismo&nbsp;<br>reconocido por la Administración Pública española.&nbsp;<br>Otros países:&nbsp;<br>• ALEMANIA: DIN&nbsp;<br>• FRANCIA: NIF&nbsp;<br>• JAPÓN: JIS&nbsp;<br>• REINO UNIDO: BS&nbsp;<br>• USA: ASA&nbsp;<br><strong>NORMAS REGIONALES&nbsp;</strong><br>Aquellas que han sido elaboradas en el ámbito regional. Las más conocidas, son las europeas&nbsp;<br>elaboradas por Organismos Europeos de Normalización:&nbsp;<br>• CEN (Comité Europeo de Normalización) &nbsp;<br>• CENELEC (Comité Europeo de Normalización Electrónica) &nbsp;<br>NORMAS INTERNACIONALES&nbsp;<br>Son las de ámbito internacional y creadas por un organismo internacional. El organismo de&nbsp;<br>mayor prestigio es:&nbsp;<br>• ISO (Organización Internacional de Normalización, elabora normas para todos los&nbsp;<br>sectores. Fue creada en 1947 para promocionar el desarrollo de las actividades de&nbsp;<br>normalización en el mundo. &nbsp;<br><strong>EJEMPLOS&nbsp;</strong><br>Se pueden mencionar innumerables ejemplos, entre ellos:&nbsp;<br><strong>• TUERCAS Y TORNILLOS&nbsp;</strong><br>Si no estuviera normalizado existirían infinidad de tamaños y tipos de tuercas y tonillos y una&nbsp;<br>amplia variedad de herramientas. Siendo imposible clasificarlos y almacenarlos en las&nbsp;<br>ferreterías.&nbsp;</p>
+<p><img src="{{context_path}}/content/resources/20260502200519609UCR/mceclip1.png"></p>
+<p><em>Imagen creado con Copilot.</em></p>
+<p><strong>• TAMAÑOS DE PAPEL</strong>&nbsp;<br>Igualmente, la regularización de los tamaños de papel para escritura o dibujo facilita la&nbsp;<br>reproducción y el archivado.&nbsp;</p>
+<p><img src="{{context_path}}/content/resources/20260502200519609UCR/mceclip2.png"></p>
+<p><em>Imagen creado con Copilot.</em></p>
+<p><br><strong>NOS CENTRAMOS EN LAS NORMAS QUE AFECTAN AL DIBUJO TÉCNICO&nbsp;</strong><br><strong>FORMATOS (NORMAS UNE 1026, ISO 5457)&nbsp;</strong><br>Se llama formato a la forma y dimensiones del papel elegido para dibujar. La norma UNE&nbsp;<br>1026 coincidente ccon la ISO 5457 se encarga de unificar la gran variedad de tamaños de los&nbsp;<br>formatos de dibujo.&nbsp;<br>Existen 3 series diferentes, según la utilidad que se les vaya a dar:&nbsp;<br>• Serie A: regula el tamaño del papel que se usan en el dibujo.&nbsp;<br>• Serie B y C: usados para archivo, enmarcación, sobres, etc. &nbsp;<br>Todos los documentos técnicos sean originales o reproducciones, deben ser realizados en&nbsp;<br>papeles de la serie A.</p>
+<p>&nbsp;<br>EL FORMATO A ELEGIR DEBE SER EL MÁS PEQUEÑO QUE GARANTICE LA CORRECTA&nbsp;<br>REPRESENTACIÓN DEL OBJETO Y LOS FORMATOS PUEDEN SER UTILIZADOS TANTO EN&nbsp;<br>HORIZONTAL COMO EN VERTICAL&nbsp;</p>
+<p><br><strong>REGLAS PARA LA DEDUCCIÓN DE LAS MEDIDAS DE UN FORMATO&nbsp;REGLA DE REFERENCIA:</strong> el formato origen de la serie A tiene una superficie de un m2. A0=&nbsp;<br>1m2.&nbsp;<br><strong>REGLA DE SEMEJANZA: </strong>todos los formatos (excepto los alargados) son semejantes.&nbsp;<br><strong>REGLA DE DOBLADO:</strong> al doblar un formato por la paralela media al lado menor se obtiene&nbsp;<br>dos inmediatos inferiores.&nbsp;<br>Sobre la base de las 3 reglas se deducen las medidas de la serie base, la serie A. &nbsp;<br>La superficie del formato A0= 1m2 y las medidas de los sucesivos formatos se deducen por la&nbsp;<br>aplicación de la regla de doblado ( dividiendo por dos el largo se desprecian los decimales) &nbsp;<br><strong>MÁRGENES Y RECUADROS&nbsp;</strong><br>En todos los formatos se debe dejar un espacio entre el borde del papel y la zona de&nbsp;<br>ejecución del dibujo denominado margen. A la línea que separa el margen de la zona del&nbsp;<br>dibujo se la llama recuadro.&nbsp;<br><strong>MARGEN DE ARCHIVO&nbsp;</strong><br>En caso de que sea necesaria la encuadernación, el margen izquierdo debe ser como mínimo&nbsp;<br>de 20 mm, para poder efectuar las perforaciones para el archivado. El recuadro se realiza&nbsp;<br>con un trazo continuo de 0,5 mm&nbsp;<br><strong>CUADRO DE ROTULACIÓN&nbsp;</strong><br>Es la zona destinada a indicar las características del dibujo. Está concebido para dar&nbsp;<br>información que permita identificar el documento, &nbsp;suministrar datos complementarios&nbsp;<br>(número de registro, título del dibujo, método de proyección usado, escala, etc)&nbsp;<br>Consiste en un rectángulo ubicado en el ángulo inferior derecho de la hoja y dentro de la&nbsp;<br>zona de ejecución, coincidente con el sentido de lectura del cuadro.&nbsp;<br>Tanto si es necesario el doblado del plano como si no, el cajetín, debe quedar&nbsp;<br>completamente visible en la primera página y no superar los 170 mm de largo ni los 277mm&nbsp;<br>de alto&nbsp;<br><strong>DOBLADO Y ARCHIVADO DE PLANOS&nbsp;</strong><br>La norma UNE 1027 regula el doblado y archivado de planos. El doblado de planos, definido&nbsp;<br>por las actuales normas nacionales e internacionales, tienen por objeto obtener como&nbsp;<br>resultado del doblado un formato A4 (210x297 mm).&nbsp;<br><strong>ESCRITURA&nbsp;</strong><br>Hoy en día el uso de ordenadores prácticamente ha eliminado la rotulación a mano alzada.&nbsp;<br>Como generalidad el escritura en los dibujos técnicos debe ser:&nbsp;<br>• LEGIBLE&nbsp;<br>• HOMOGENEA: Conservar el espesor de las líneas y conservar la separación entre&nbsp;<br>caracteres.&nbsp;<br>• Y QUE ASEGURE LA REPRODUCCIÓN FOTOGRÁFICA.&nbsp;<br>MEDIDAS&nbsp;<br>Para las medidas de las letras y de las cifras se tendrán en cuenta las especificaciones&nbsp;<br>siguientes:&nbsp;<br>• Se toma como medida de referencia la altura h &nbsp;de las mayúsculas.&nbsp;<br>• La gama de alturas h normalizada está a razón raíz cuadrada de 2: 2,5-3,5-5-7-10-14<br>20 mm.&nbsp;<br>• La altura no será menor a los 2,5 mm.&nbsp;<br>• Relación de anchura de trazo según la altura de los caracteres d/h. Existen dos&nbsp;<br>relaciones normalizadas para d/h&nbsp;<br>d/h=14 (d=h/14) y d/h=1/10 (d=h/10)&nbsp;<br><strong>TIPOS DE ESCRITURA&nbsp;</strong><br>La norma UNE 1034 tiene previstos dos tipos de escritura, relacionados con los espesores&nbsp;<br>del trazo:&nbsp;<br>• Escritura tipo A, de ancho de línea: d= h/14.&nbsp;<br>• Escritura tipo B, de ancho de línea: d=h/10&nbsp;<br>Tienen dos variedades que se diferencian por la inclinación:&nbsp;<br>• Escritura vertical&nbsp;<br>• Escritura cursiva, inclinada 15º hacia la derecha.&nbsp;<br><strong>LÍNEAS NORMALIZADAS&nbsp;</strong><br><strong>LÍNEAS NORMALIZADAS (Normas UNE 1032, ISO 128)&nbsp;</strong><br>• Todo dibujo técnico podrá ser realizado a lapicero o a tinta, pero usando una sola&nbsp;<br>técnica en el mismo dibujo.&nbsp;<br>• Todas las líneas deben mantener una uniformidad en cuanto a color, espesor y&nbsp;<br>presión de trazo.&nbsp;<br>En la siguiente tabla se detallan los tipos de líneas con sus principales aplicaciones.&nbsp;<br><strong>REPRESENTACIONES DIÉDRICAS&nbsp;</strong><br>La norma UNE 1032, coincidente con la ISO 128, se encarga de la parte de la normalización&nbsp;<br>de las representaciones diédricas normalizadas, también conocidas como vistas.&nbsp;<br><strong>PLANOS DE PROYECCIÓN&nbsp;</strong><br>Los objetos se representan por su proyecciones cilíndricas ortogonales sobre tres planos de&nbsp;<br>proyección perpendiculares entre sí: plano horizontal (P.H.), plano vertical (P.V.) y plano de&nbsp;<br>perfil (P.P)&nbsp;<br><strong>VISTAS PRINCIPALES&nbsp;</strong><br>Un objeto se puede proyectar sobre las seis caras del paralelepípedo formado por los tres&nbsp;<br>planos de proyección y otros tres paralelos a ellos&nbsp;<br><strong>ELECCIÓN DE LAS VISTAS&nbsp;</strong><br>La elección de las vistas, depende de múltiples factores y no siempre está claro cuál debe ser&nbsp;<br>el alzado o el perfil. A continuación vamos a ver algunas reglas que podemos tener en&nbsp;<br>cuenta.&nbsp;<br><strong>ALZADO&nbsp;</strong><br>• Se elegirá el primero.&nbsp;<br>• Será la vista que contenga mayor información.&nbsp;<br>• La que mejor sugiera la forma de la pieza y en lo posible la proporción entre sus&nbsp;<br>dimensiones&nbsp;<br>• Si el objeto puede estar en cualquier posición, se debe dibujar el alzado en la&nbsp;<br>posición de fabricación o montaje.&nbsp;<br><strong>RESTO DE VISTAS&nbsp;</strong><br>El resto de vistas deben ser elegidas de manera que el objeto quede claramente definido, sin&nbsp;<br>ambigüedades. El número de vistas, en la mayoría suelen ser suficientes con tres (alzado,&nbsp;<br>planta y perfil) incluso con dos (alzado y planta o alzado y perfil)</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7db-21xgrmz7u</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>EVALUACIÓN</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7db-21xgrmz7u</odePageId>
+      <odeBlockId>20260512171457JDMKLY</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7db-21xgrmz7u</odePageId>
+          <odeBlockId>20260512171457JDMKLY</odeBlockId>
+          <odeIdeviceId>20260503200155778NOO</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container"><div class="game-evaluation-ids js-hidden" data-id="20260503200155778NOO" data-evaluationb="false" data-evaluationid="20260502164953JJUKEF"></div>
+            <div id="frmMainContainer-20260503200155778NOO" class="form-IDevice" data-id="20260503200155778NOO">
+                <div class="form-Data js-hidden">{}</div>
+                <div class="form-instructions"><p>Marca la opción de la casilla que más se ajuste a tu opinión, siendo el 4 la casilla que representa la mayor conformidad y el 1 la menor.</p></div>
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-20260503200155778NOO">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-20260503200155778NOO" style="display:none;">
+                      <button  id="frmStartGame-20260503200155778NOO" type="button" class="btn btn-primary">Pulse aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-20260503200155778NOO" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-20260503200155778NOO" > </div>
+                        <div id="frmCover-20260503200155778NOO" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-20260503200155778NOO" class="form-results-container inline">
+                        <div id="form-score-20260503200155778NOO" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-20260503200155778NOO" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-20260503200155778NOO" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="20260503200155778NOO" data-pass-rate="" />
+                        <input id="form-button-reset-20260503200155778NOO" type="button" value="Reiniciar"
+                            data-id="20260503200155778NOO" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-20260503200155778NOO" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="20260503200155778NOO" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-20260503200155778NOO" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                <div class="form-instructions"></div>
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            </div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260503200155778NOO","evaluation":false,"evaluationID":"20260502164953JJUKEF","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulse aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulse aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"20260503200155778NOO","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"<p>Marca la opción de la casilla que más se ajuste a tu opinión, siendo el 4 la casilla que representa la mayor conformidad y el 1 la menor.</p>","questionsData":[{"id":"1777831463136-AHW9O","activityType":"selection","baseText":"<p>He tenido una asistencia regular</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831537567-3UIH0","activityType":"selection","baseText":"<p>He tenido tiempo para realizar todas las actividades</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831576965-HKDZQ","activityType":"selection","baseText":"<p>El tema tratado es interesante</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831662989-9LIEB","activityType":"selection","baseText":"<p>El material utilizado por la profesora se ajustó a mis necesidades para resolver los problemas que surgían</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831717515-YGYJV","activityType":"selection","baseText":"<p>La unidad estudiada me ha aportado nuevos conocimientos,</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831793594-FL7AV","activityType":"selection","baseText":"<p>He utilizado los programas informáticos sin apenas dificultad</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831829525-9IQT0","activityType":"selection","baseText":"<p>El método de evaluación creo que es justo</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831878972-TOBG3","activityType":"selection","baseText":"<p>Estoy satisfecho con el trabajo que le he dedicado a la unidad</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831930819-ICSI9","activityType":"selection","baseText":"<p>Los criterios de evaluación han sido claros</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777831974006-TQYGU","activityType":"selection","baseText":"<p>La calificación obtenida se ajusta a mis espectativas</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777832007823-UVTXO","activityType":"selection","baseText":"<p>Los enunciado de los trabajos han sido claros</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0},{"id":"1777832039993-7KD4C","activityType":"selection","baseText":"<p>He realizado todas las actividades</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[true,"1"],[false,"2"],[false,"3"],[false,"4"]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7dc-vx42kesuv</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>DICCIONARIO</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DICCIONARIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>DICCIONARIO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7dc-vx42kesuv</odePageId>
+      <odeBlockId>20260512171457VFSJPU</odeBlockId>
+      <blockName>Diccionario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7dc-vx42kesuv</odePageId>
+          <odeBlockId>20260512171457VFSJPU</odeBlockId>
+          <odeIdeviceId>20260502202236749OKP</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p><strong>Normalización</strong><br>Proceso mediante el cual se establecen normas comunes para unificar criterios técnicos, garantizando que los dibujos, piezas y documentos sean comprendidos de la misma forma por todas las personas y profesionales.</p>
+<p><strong>Norma</strong><br>Documento técnico aprobado por un organismo oficial que fija reglas, criterios o características para productos, procesos o representaciones gráficas.</p>
+<p><strong>ISO</strong><br>Organización Internacional de Normalización. Elabora normas de aplicación internacional, como las relativas a formatos de papel, líneas o acotación.</p>
+<p><strong>UNE</strong><br>Normas españolas elaboradas por AENOR. Adaptan las normas internacionales al ámbito nacional.</p>
+<p><strong>Dibujo técnico</strong><br>Lenguaje gráfico normalizado que permite representar objetos y proyectos técnicos con precisión y sin ambigüedad.</p>
+<p><strong>Documentación gráfica</strong><br>Conjunto de planos, croquis, esquemas y gráficos que describen técnica y visualmente un proyecto.</p>
+<p><strong>Formato de papel</strong><br>Dimensiones normalizadas del papel utilizadas en dibujo técnico, principalmente la serie A (A0, A1, A2, A3, A4).</p>
+<p><strong>Serie A (ISO 216)</strong><br>Conjunto de formatos de papel basados en una proporción constante √2, donde cada formato se obtiene dividiendo el anterior por la mitad.</p>
+<p><strong>Plano</strong><br>Representación gráfica detallada y a escala de un objeto o proyecto técnico, realizada conforme a normas.</p>
+<p><strong>Escala</strong><br>Relación entre las dimensiones del dibujo y las dimensiones reales del objeto representado (por ejemplo 1:1, 1:2, 2:1).</p>
+<p><strong>Línea normalizada</strong><br>Tipo de línea que, según su forma y grosor, tiene un significado concreto (contornos, ejes, cotas, etc.).</p>
+<p><strong>ISO 128</strong><br>Norma que regula los tipos y usos de las líneas en dibujo técnico.</p>
+<p><strong>Acotación</strong><br>Conjunto de líneas, cifras y símbolos que indican las dimensiones reales de un objeto en un plano.</p>
+<p><strong>Rotulación</strong><br>Escritura normalizada utilizada en los planos para asegurar legibilidad y uniformidad.</p>
+<p><strong>Cuadro de rotulación</strong><br>Espacio del plano donde se recogen datos importantes como título, autor, escala, fecha y número de plano.</p>
+<p><strong>Proyección</strong><br>Método para representar un objeto tridimensional en un plano bidimensional.</p>
+<p><strong>Sistema diédrico</strong><br>Sistema de representación que utiliza vistas (alzado, planta y perfil) para definir completamente un objeto.</p>
+<p><strong>Escala normalizada</strong><br>Conjunto de escalas recomendadas por la norma para evitar confusiones y facilitar la interpretación de planos.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260502202236749OKP","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Normalización</strong><br />Proceso mediante el cual se establecen normas comunes para unificar criterios técnicos, garantizando que los dibujos, piezas y documentos sean comprendidos de la misma forma por todas las personas y profesionales.</p>\n<p><strong>Norma</strong><br />Documento técnico aprobado por un organismo oficial que fija reglas, criterios o características para productos, procesos o representaciones gráficas.</p>\n<p><strong>ISO</strong><br />Organización Internacional de Normalización. Elabora normas de aplicación internacional, como las relativas a formatos de papel, líneas o acotación.</p>\n<p><strong>UNE</strong><br />Normas españolas elaboradas por AENOR. Adaptan las normas internacionales al ámbito nacional.</p>\n<p><strong>Dibujo técnico</strong><br />Lenguaje gráfico normalizado que permite representar objetos y proyectos técnicos con precisión y sin ambigüedad.</p>\n<p><strong>Documentación gráfica</strong><br />Conjunto de planos, croquis, esquemas y gráficos que describen técnica y visualmente un proyecto.</p>\n<p><strong>Formato de papel</strong><br />Dimensiones normalizadas del papel utilizadas en dibujo técnico, principalmente la serie A (A0, A1, A2, A3, A4).</p>\n<p><strong>Serie A (ISO 216)</strong><br />Conjunto de formatos de papel basados en una proporción constante √2, donde cada formato se obtiene dividiendo el anterior por la mitad.</p>\n<p><strong>Plano</strong><br />Representación gráfica detallada y a escala de un objeto o proyecto técnico, realizada conforme a normas.</p>\n<p><strong>Escala</strong><br />Relación entre las dimensiones del dibujo y las dimensiones reales del objeto representado (por ejemplo 1:1, 1:2, 2:1).</p>\n<p><strong>Línea normalizada</strong><br />Tipo de línea que, según su forma y grosor, tiene un significado concreto (contornos, ejes, cotas, etc.).</p>\n<p><strong>ISO 128</strong><br />Norma que regula los tipos y usos de las líneas en dibujo técnico.</p>\n<p><strong>Acotación</strong><br />Conjunto de líneas, cifras y símbolos que indican las dimensiones reales de un objeto en un plano.</p>\n<p><strong>Rotulación</strong><br />Escritura normalizada utilizada en los planos para asegurar legibilidad y uniformidad.</p>\n<p><strong>Cuadro de rotulación</strong><br />Espacio del plano donde se recogen datos importantes como título, autor, escala, fecha y número de plano.</p>\n<p><strong>Proyección</strong><br />Método para representar un objeto tridimensional en un plano bidimensional.</p>\n<p><strong>Sistema diédrico</strong><br />Sistema de representación que utiliza vistas (alzado, planta y perfil) para definir completamente un objeto.</p>\n<p><strong>Escala normalizada</strong><br />Conjunto de escalas recomendadas por la norma para evitar confusiones y facilitar la interpretación de planos.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2wt7dc-vx42kesuv</odePageId>
+      <odeBlockId>20260512171457YTZJCV</odeBlockId>
+      <blockName>Rosco</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7dc-vx42kesuv</odePageId>
+          <odeBlockId>20260512171457YTZJCV</odeBlockId>
+          <odeIdeviceId>202605022024373961KE</odeIdeviceId>
+          <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rosco-IDevice"><div class="game-evaluation-ids js-hidden" data-id="202605022024373961KE" data-evaluationb="false" data-evaluationid="20260502164953JJUKEF"></div><div class="rosco-version js-hidden">2</div><div class="rosco-instructions"><p>Observe las letras, identifique y rellene las palabras que faltan.</p></div><div class="rosco-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%DD%F0%E1%F7%E0%E4%F7%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%E3%E7%F7%B2%EB%B2%E0%F7%FE%FE%F7%FC%F7%B2%FE%F3%E1%B2%E2%F3%FE%F3%F0%E0%F3%E1%B2%E3%E7%F7%B2%F4%F3%FE%E6%F3%FC%BC%AE%BD%E2%AC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%F6%E7%E0%F3%E6%FB%FD%FC%D5%F3%FF%F7%B0%A8%A0%A6%A2%BE%B0%FC%E7%FF%F0%F7%E0%C6%E7%E0%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D3%F1%FD%E6%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%F8%E7%FC%E6%FD%B2%F6%F7%B2%FE%7F%FC%F7%F3%E1%BE%B2%F1%FB%F4%E0%F3%E1%B2%EB%B2%E1%7F%FF%F0%FD%FE%FD%E1%B2%E3%E7%F7%B2%FB%FC%F6%FB%F1%F3%FC%B2%FE%F3%E1%B2%F6%FB%FF%F7%FC%E1%FB%FD%FC%F7%E1%B2%E0%F7%F3%FE%F7%E1%B2%F6%F7%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%B2%F7%FC%B2%E7%FC%B2%E2%FE%F3%FC%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D6%FB%F0%E7%F8%FD%B2%E6%7B%F1%FC%FB%F1%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DE%F7%FC%F5%E7%F3%F8%F7%B2%F5%E0s%F4%FB%F1%FD%B2%FC%FD%E0%FF%F3%FE%FB%E8%F3%F6%FD%B2%E3%E7%F7%B2%E2%F7%E0%FF%FB%E6%F7%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%E0%B2%FD%F0%F8%F7%E6%FD%E1%B2%EB%B2%E2%E0%FD%EB%F7%F1%E6%FD%E1%B2%E6%7B%F1%FC%FB%F1%FD%E1%B2%F1%FD%FC%B2%E2%E0%F7%F1%FB%E1%FBa%FC%B2%EB%B2%E1%FB%FC%B2%F3%FF%F0%FB%F5n%F7%F6%F3%F6%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D1%E7%F3%F6%E0%FD%B2%F6%F7%B2%E0%FD%E6%E7%FE%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E2%F3%F1%FB%FD%B2%F6%F7%FE%B2%E2%FE%F3%FC%FD%B2%F6%FD%FC%F6%F7%B2%E1%F7%B2%E0%F7%F1%FD%F5%F7%FC%B2%F6%F3%E6%FD%E1%B2%FB%FF%E2%FD%E0%E6%F3%FC%E6%F7%E1%B2%F1%FD%FF%FD%B2%E6%7F%E6%E7%FE%FD%BE%B2%F3%E7%E6%FD%E0%BE%B2%F7%E1%F1%F3%FE%F3%BE%B2%F4%F7%F1%FA%F3%B2%EB%B2%FCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%FE%F3%FC%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D6%FD%F1%E7%FF%F7%FC%E6%F3%F1%FBa%FC%B2%F5%E0s%F4%FB%F1%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%F8%E7%FC%E6%FD%B2%F6%F7%B2%E2%FE%F3%FC%FD%E1%BE%B2%F1%E0%FD%E3%E7%FB%E1%BE%B2%F7%E1%E3%E7%F7%FF%F3%E1%B2%EB%B2%F5%E0s%F4%FB%F1%FD%E1%B2%E3%E7%F7%B2%F6%F7%E1%F1%E0%FB%F0%F7%FC%B2%E6%7B%F1%FC%FB%F1%F3%B2%EB%B2%E4%FB%E1%E7%F3%FE%FF%F7%FC%E6%F7%B2%E7%FC%B2%E2%E0%FD%EB%F7%F1%E6%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D7%E1%F1%F3%FE%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C0%F7%FE%F3%F1%FBa%FC%B2%F7%FC%E6%E0%F7%B2%FE%F3%E1%B2%F6%FB%FF%F7%FC%E1%FB%FD%FC%F7%E1%B2%F6%F7%FE%B2%F6%FB%F0%E7%F8%FD%B2%EB%B2%FE%F3%E1%B2%F6%FB%FF%F7%FC%E1%FB%FD%FC%F7%E1%B2%E0%F7%F3%FE%F7%E1%B2%F6%F7%FE%B2%FD%F0%F8%F7%E6%FD%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%F6%FD%B2%BA%E2%FD%E0%B2%F7%F8%F7%FF%E2%FE%FD%B2%A3%A8%A3%BE%B2%A3%A8%A0%BE%B2%A0%A8%A3%BB%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D4%FD%E0%FF%F3%E6%FD%B2%F6%F7%FE%B2%E2%F3%E2%F7%FE%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%FB%FF%F7%FC%E1%FB%FD%FC%F7%E1%B2%FC%FD%E0%FF%F3%FE%FB%E8%F3%F6%F3%E1%B2%F6%F7%FE%B2%E2%F3%E2%F7%FE%B2%E7%E6%FB%FE%FB%E8%F3%F6%F3%E1%B2%F7%FC%B2%F6%FB%F0%E7%F8%FD%B2%E6%7B%F1%FC%FB%F1%FD%BE%B2%E2%E0%FB%FC%F1%FB%E2%F3%FE%FF%F7%FC%E6%F7%B2%FE%F3%B2%E1%F7%E0%FB%F7%B2%D3%B2%BA%D3%A2%BE%B2%D3%A3%BE%B2%D3%A0%BE%B2%D3%A1%BE%B2%D3%A6%BB%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DB%FC%E6%F7%E0%F1%F3%FF%F0%FB%F3%F0%FB%FE%FB%F6%F3%F6%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%E0%FB%FC%F1%FB%E2%FB%FD%B2%E2%FD%E0%B2%F7%FE%B2%F1%E7%F3%FE%B2%FE%F3%E1%B2%E2%FB%F7%E8%F3%E1%B2%F4%F3%F0%E0%FB%F1%F3%F6%F3%E1%B2%E1%F7%F5h%FC%B2%FC%FD%E0%FF%F3%E1%B2%E2%E7%F7%F6%F7%FC%B2%E1%E7%E1%E6%FB%E6%E7%FB%E0%E1%F7%B2%E7%FC%F3%E1%B2%E2%FD%E0%B2%FD%E6%E0%F3%E1%B2%E1%FB%FC%B2%E2%E0%FD%F0%FE%F7%FF%F3%E1%B2%F6%F7%B2%F3%F8%E7%E1%E6%F7%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D9%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DE%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DE%7F%FC%F7%F3%B2%FC%FD%E0%FF%F3%FE%FB%E8%F3%F6%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C6%FB%E2%FD%B2%F6%F7%B2%FE%7F%FC%F7%F3%B2%E3%E7%F7%BE%B2%E1%F7%F5h%FC%B2%E1%E7%B2%F4%FD%E0%FF%F3%B2%EB%B2%F5%E0%FD%E1%FD%E0%BE%B2%E6%FB%F7%FC%F7%B2%E7%FC%B2%E1%FB%F5%FC%FB%F4%FB%F1%F3%F6%FD%B2%F1%FD%FC%F1%E0%F7%E6%FD%B2%BA%F1%FD%FC%E6%FD%E0%FC%FD%E1%BE%B2%F7%F8%F7%E1%BE%B2%F1%FD%E6%F3%E1%BE%B2%F7%E6%F1%BC%BB%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DF%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DC%FD%E0%FF%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%FD%F1%E7%FF%F7%FC%E6%FD%B2%E6%7B%F1%FC%FB%F1%FD%B2%F3%E2%E0%FD%F0%F3%F6%FD%B2%E2%FD%E0%B2%E7%FC%B2%FD%E0%F5%F3%FC%FB%E1%FF%FD%B2%FD%F4%FB%F1%FB%F3%FE%B2%E3%E7%F7%B2%F4%FB%F8%F3%B2%E0%F7%F5%FE%F3%E1%BE%B2%F1%E0%FB%E6%F7%E0%FB%FD%E1%B2%FD%B2%F1%F3%E0%F3%F1%E6%F7%E0%7F%E1%E6%FB%F1%F3%E1%B2%E2%F3%E0%F3%B2%E2%E0%FD%F6%E7%F1%E6%FD%E1%BE%B2%E2%E0%FD%F1%F7%E1%FD%E1%B2%FD%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%F1%FB%FD%FC%F7%E1%B2%F5%E0s%F4%FB%F1%F3%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DC%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DC%FD%E0%FF%F3%FE%FB%E8%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C2%E0%FD%F1%F7%E1%FD%B2%FF%F7%F6%FB%F3%FC%E6%F7%B2%F7%FE%B2%F1%E7%F3%FE%B2%E1%F7%B2%F7%E1%E6%F3%F0%FE%F7%F1%F7%FC%B2%FC%FD%E0%FF%F3%E1%B2%F1%FD%FF%E7%FC%F7%E1%B2%E2%F3%E0%F3%B2%E7%FC%FB%F4%FB%F1%F3%E0%B2%F1%E0%FB%E6%F7%E0%FB%FD%E1%B2%E6%7B%F1%FC%FB%F1%FD%E1%BE%B2%F5%F3%E0%F3%FC%E6%FB%E8%F3%FC%F6%FD%B2%E3%E7%F7%B2%FE%FD%E1%B2%F6%FB%F0%E7%F8%FD%E1%BE%B2%E2%FB%F7%E8%F3%E1%B2%EB%B2%F6%FD%F1%E7%FF%F7%FC%E6%FD%E1%B2%E1%F7%F3%FC%B2%F1%FD%FF%E2%E0%F7%FC%F6%FB%F6%FD%E1%B2%F6%F7%B2%FE%F3%B2%FF%FB%E1%FF%F3%B2%F4%FD%E0%FF%F3%B2%E2%FD%E0%B2%E6%FD%F6%F3%E1%B2%FE%F3%E1%B2%E2%F7%E0%E1%FD%FC%F3%E1%B2%EB%B2%E2%E0%FD%F4%F7%E1%FB%FD%FC%F3%FE%F7%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0C%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DD%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DB%C1%DD%B2%A3%A0%AA%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DC%FD%E0%FF%F3%B2%E3%E7%F7%B2%E0%F7%F5%E7%FE%F3%B2%FE%FD%E1%B2%E6%FB%E2%FD%E1%B2%EB%B2%E7%E1%FD%E1%B2%F6%F7%B2%FE%F3%E1%B2%FE%7F%FC%F7%F3%E1%B2%F7%FC%B2%F6%FB%F0%E7%F8%FD%B2%E6%7B%F1%FC%FB%F1%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C2%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C2%FE%F3%FC%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C0%F7%E2%E0%F7%E1%F7%FC%E6%F3%F1%FBa%FC%B2%F5%E0s%F4%FB%F1%F3%B2%F6%F7%E6%F3%FE%FE%F3%F6%F3%B2%EB%B2%F3%B2%F7%E1%F1%F3%FE%F3%B2%F6%F7%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%B2%FD%B2%E2%E0%FD%EB%F7%F1%E6%FD%B2%E6%7B%F1%FC%FB%F1%FD%BE%B2%E0%F7%F3%FE%FB%E8%F3%F6%F3%B2%F1%FD%FC%F4%FD%E0%FF%F7%B2%F3%B2%FC%FD%E0%FF%F3%E1%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C0%FD%E6%E7%FE%F3%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%F1%E0%FB%E6%E7%E0%F3%B2%FC%FD%E0%FF%F3%FE%FB%E8%F3%F6%F3%B2%E7%E6%FB%FE%FB%E8%F3%F6%F3%B2%F7%FC%B2%FE%FD%E1%B2%E2%FE%F3%FC%FD%E1%B2%E2%F3%E0%F3%B2%F3%E1%F7%F5%E7%E0%F3%E0%B2%FE%F7%F5%FB%F0%FB%FE%FB%F6%F3%F6%B2%EB%B2%E7%FC%FB%F4%FD%E0%FF%FB%F6%F3%F6%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C1%FB%E1%E6%F7%FF%F3%B2%F6%FB%7B%F6%E0%FB%F1%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%C1%FB%E1%E6%F7%FF%F3%B2%F6%F7%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E7%E6%FB%FE%FB%E8%F3%B2%E4%FB%E1%E6%F3%E1%B2%BA%F3%FE%E8%F3%F6%FD%BE%B2%E2%FE%F3%FC%E6%F3%B2%EB%B2%E2%F7%E0%F4%FB%FE%BB%B2%E2%F3%E0%F3%B2%F6%F7%F4%FB%FC%FB%E0%B2%F1%FD%FF%E2%FE%F7%E6%F3%FF%F7%FC%E6%F7%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C7%DC%D7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DC%FD%E0%FF%F3%E1%B2%F7%E1%E2%F3c%FD%FE%F3%E1%B2%F7%FE%F3%F0%FD%E0%F3%F6%F3%E1%B2%E2%FD%E0%B2%D3%D7%DC%DD%C0%BC%B2%D3%F6%F3%E2%E6%F3%FC%B2%FE%F3%E1%B2%FC%FD%E0%FF%F3%E1%B2%FB%FC%E6%F7%E0%FC%F3%F1%FB%FD%FC%F3%FE%F7%E1%B2%F3%FE%B2s%FF%F0%FB%E6%FD%B2%FC%F3%F1%FB%FD%FC%F3%FE%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C2%E0%FD%EB%F7%F1%F1%FBa%FC%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%DF%7B%E6%FD%F6%FD%B2%E2%F3%E0%F3%B2%E0%F7%E2%E0%F7%E1%F7%FC%E6%F3%E0%B2%E7%FC%B2%FD%F0%F8%F7%E6%FD%B2%E6%E0%FB%F6%FB%FF%F7%FC%E1%FB%FD%FC%F3%FE%B2%F7%FC%B2%E7%FC%B2%E2%FE%F3%FC%FD%B2%F0%FB%F6%FB%FF%F7%FC%E1%FB%FD%FC%F3%FE%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A3%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%FE%F7%E6%E6%F7%E0%E1%B0%A8%B0%D3%D0%D1%D6%D7%D4%D5%DA%DB%D8%D9%DE%DF%DCC%DD%C2%C3%C0%C1%C6%C7%C4%C5%CA%CB%C8%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A0%A2%A0%A4%A2%A7%A2%A0%A3%A4%A6%AB%A7%A1%D8%D8%C7%D9%D7%D4%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A4%A2%A7%A2%A0%A0%A2%A0%A6%A1%A5%A1%AB%A4%A3%D9%D7%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DC%F7%E5%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FC%E7%F7%E4%F3%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C5%FB%E6%FA%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%B7%A3%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%F3%FB%FC%E6%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%B7%A3%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%B0%A8%B0%C2%F3%E1%F3%E0%B2%F3%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DD%FC%F7%C0%FD%E7%FC%F6%B0%A8%B0%C7%FC%F3%B2%E4%E7%F7%FE%E6%F3%B0%BE%B0%FF%E1%F5%C6%FD%E5%C0%FD%E7%FC%F6%E1%B0%A8%B0%D6%FD%E1%B2%E4%E7%F7%FE%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FF%F3%F5%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C1%FB%FC%B2%FB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F3%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%BE%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1%FD%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%DA%FB%F6%F7%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DD%F1%E7%FE%E6%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%C2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C5%FD%E0%F6%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%B0%A8%B0%C6%FD%F6%F3%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%EF%EF</div><a href="#" class="js-hidden rosco-LinkImages">0</a><a href="#" class="js-hidden rosco-LinkImages">1</a><a href="#" class="js-hidden rosco-LinkImages">2</a><a href="#" class="js-hidden rosco-LinkImages">3</a><a href="#" class="js-hidden rosco-LinkImages">4</a><a href="#" class="js-hidden rosco-LinkImages">5</a><a href="#" class="js-hidden rosco-LinkImages">6</a><a href="#" class="js-hidden rosco-LinkImages">7</a><a href="#" class="js-hidden rosco-LinkImages">8</a><a href="#" class="js-hidden rosco-LinkImages">9</a><a href="#" class="js-hidden rosco-LinkImages">10</a><a href="#" class="js-hidden rosco-LinkImages">11</a><a href="#" class="js-hidden rosco-LinkImages">12</a><a href="#" class="js-hidden rosco-LinkImages">13</a><a href="#" class="js-hidden rosco-LinkImages">14</a><a href="#" class="js-hidden rosco-LinkImages">15</a><a href="#" class="js-hidden rosco-LinkImages">16</a><a href="#" class="js-hidden rosco-LinkImages">17</a><a href="#" class="js-hidden rosco-LinkImages">18</a><a href="#" class="js-hidden rosco-LinkImages">19</a><a href="#" class="js-hidden rosco-LinkImages">20</a><a href="#" class="js-hidden rosco-LinkImages">21</a><a href="#" class="js-hidden rosco-LinkImages">22</a><a href="#" class="js-hidden rosco-LinkImages">23</a><a href="#" class="js-hidden rosco-LinkImages">24</a><a href="#" class="js-hidden rosco-LinkImages">25</a><a href="#" class="js-hidden rosco-LinkImages">26</a><a href="#" class="js-hidden rosco-LinkAudios">0</a><a href="#" class="js-hidden rosco-LinkAudios">1</a><a href="#" class="js-hidden rosco-LinkAudios">2</a><a href="#" class="js-hidden rosco-LinkAudios">3</a><a href="#" class="js-hidden rosco-LinkAudios">4</a><a href="#" class="js-hidden rosco-LinkAudios">5</a><a href="#" class="js-hidden rosco-LinkAudios">6</a><a href="#" class="js-hidden rosco-LinkAudios">7</a><a href="#" class="js-hidden rosco-LinkAudios">8</a><a href="#" class="js-hidden rosco-LinkAudios">9</a><a href="#" class="js-hidden rosco-LinkAudios">10</a><a href="#" class="js-hidden rosco-LinkAudios">11</a><a href="#" class="js-hidden rosco-LinkAudios">12</a><a href="#" class="js-hidden rosco-LinkAudios">13</a><a href="#" class="js-hidden rosco-LinkAudios">14</a><a href="#" class="js-hidden rosco-LinkAudios">15</a><a href="#" class="js-hidden rosco-LinkAudios">16</a><a href="#" class="js-hidden rosco-LinkAudios">17</a><a href="#" class="js-hidden rosco-LinkAudios">18</a><a href="#" class="js-hidden rosco-LinkAudios">19</a><a href="#" class="js-hidden rosco-LinkAudios">20</a><a href="#" class="js-hidden rosco-LinkAudios">21</a><a href="#" class="js-hidden rosco-LinkAudios">22</a><a href="#" class="js-hidden rosco-LinkAudios">23</a><a href="#" class="js-hidden rosco-LinkAudios">24</a><a href="#" class="js-hidden rosco-LinkAudios">25</a><a href="#" class="js-hidden rosco-LinkAudios">26</a><div class="rosco-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2wt7dc-krhyw541e</odePageId>
+  <odeParentPageId>page-mp2wt7d5-ssqifbosz</odeParentPageId>
+  <pageName>Descargar este eXe</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descargar este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Descargar este eXe</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2wt7dc-krhyw541e</odePageId>
+      <odeBlockId>20260512171457OLBCTP</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2wt7dc-krhyw541e</odePageId>
+          <odeBlockId>20260512171457OLBCTP</odeBlockId>
+          <odeIdeviceId>2026050322355648404H</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Estudio de un castro asturiano. Alumnado</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>-</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Nikzara Castiñeira Martínez</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
